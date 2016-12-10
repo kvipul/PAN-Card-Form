@@ -31,7 +31,7 @@
                 <label for="file-format">File Text Format</label>
                 <div id="file-format">PAN-ABCAADSA1234~<br>
                     Name-Company Name~<br>   
-                    Date-1994-12-07
+                    Date-1994-12-31
                 </div>
 
                 <!-- <textarea class="form-control" rows="10" cols="10" id="fileContent"></textarea> -->
